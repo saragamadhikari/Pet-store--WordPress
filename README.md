@@ -14,3 +14,17 @@ Features:
   For Login:
 username:admin
 password:admin
+
+OUTPUTS:
+![Picture1](https://github.com/saragamadhikari/Pet-store--WordPress/assets/156570490/20f5b2b8-2c36-4038-9650-fe2717cacf4e) 
+
+![Picture2](https://github.com/saragamadhikari/Pet-store--WordPress/assets/156570490/1cebf906-086a-4c5d-9345-566914d35673)
+
+![Picture3](https://github.com/saragamadhikari/Pet-store--WordPress/assets/156570490/fb6ea786-c258-41fa-ac8a-3a237d2b9fbe)![Picture4](https://github.com/saragamadhikari/Pet-store--WordPress/assets/156570490/1b1f34af-3712-4365-9fa0-ee6f879c073d)
+
+
+![Picture5](https://github.com/saragamadhikari/Pet-store--WordPress/assets/156570490/dd13479b-c7f8-4481-8dde-e0cdb207c47c)
+
+![Picture6](https://github.com/saragamadhikari/Pet-store--WordPress/assets/156570490/52a60048-3b4e-4f1c-bff8-009ce21c857e)
+
+
