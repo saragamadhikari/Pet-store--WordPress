@@ -1,4 +1,4 @@
-# Pet-store--WordPress
+# Pet-store--WordPress (WooCommerce)
 <i>A website made using WordPress</i>
 
 Online Pet Store is totally computer-based software application to maintain day to day transaction in a pet store. It is basically a digital platform that allows customers to browse, select and purchase pets through the internet. It streamlines the ordering process offering a convenient and efficient way for customer to access a pet without physically visiting the store.
